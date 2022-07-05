@@ -1,0 +1,38 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+p{
+    font-weight: bold;
+    color: green;
+}
+
+h1{
+    font-size: 50px;
+}
+
+section{
+    display: flex;
+}
+.welcome img{
+    width: 55%;
+    padding: 20px;
+    border-radius: 100%;
+}
+.welcome{
+    width: 100%;
+    padding-left: 5%;
+}
+#hire-btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    font-weight: 700;
+    cursor: hand;
+}
+
+.background{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
