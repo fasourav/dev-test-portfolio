@@ -16,8 +16,9 @@ section{
 }
 .welcome img{
     width: 55%;
-    padding: 20px;
-    border-radius: 100%;
+    padding: 15px;
+    margin-bottom: 50px;
+    border-radius: 75%;
 }
 .welcome{
     width: 100%;
@@ -35,4 +36,10 @@ section{
 .background{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
